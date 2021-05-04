@@ -6,3 +6,4 @@ O programa foi desenvolvido em Java e MySQL para realizar cadastros e consultas 
 
 # Observações
 O arquivo **sqlschema.txt** apresenta o código usada para criar um simples banco de dados, apenas para atender as demandas.
+A pasta onde está contida o código Java é a **ProgramaContas**.
