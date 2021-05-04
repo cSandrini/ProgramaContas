@@ -1,0 +1,17 @@
+CREATE DATABASE dbcontas;
+USE dbcontas;
+
+CREATE TABLE contas (
+nrConta int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+nome varchar(40) NOT NULL,
+saldo double NOT NULL,
+idade int NOT NULL
+);
+
+INSERT INTO contas (nrConta, nome, saldo, idade) 
+VALUES 
+(123, "Águia", 1900200.14, 47),
+(124, "Gato", 100234.34, 23),
+(125,"Cachorro", 543.00, 12),
+(126, "Porco", 10, 82),
+(127, "Vaca", 123345.53, 54);
