@@ -5,5 +5,5 @@ O programa foi desenvolvido em Java e MySQL para realizar cadastros e consultas 
 ![Screenshot from 2021-05-04 19-49-07](https://user-images.githubusercontent.com/55068969/117079288-da183180-ad11-11eb-9d5a-975d38e66136.png)
 
 # Observações
-O arquivo **sqlschema.txt** apresenta o código usada para criar um simples banco de dados, apenas para atender as demandas.
+O arquivo **sqlschema.txt** apresenta o código usado para criar um simples banco de dados, apenas para atender as demandas.
 A pasta onde está contido o código Java é a **ProgramaContas/src**.
